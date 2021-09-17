@@ -32,9 +32,9 @@ For starters I created a repository on github for code refactor, and git cloned 
 
 
 ## Deployed Link
-
+https://github.com/umeramalek/homework-one
 * [See Live Site](#)
-
+https://umeramalek.github.io/homework-one/
 
 ## Authors
 
