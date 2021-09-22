@@ -26,6 +26,7 @@ For starters I created a repository on github for code refactor, and git cloned 
 ##Screenshot of the code 
   
   * screenshot of the header section
+  ![](images/h
   
 
 ## Built With
