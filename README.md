@@ -26,7 +26,14 @@ For starters I created a repository on github for code refactor, and git cloned 
 ##Screenshot of the code 
   
   * screenshot of the header section
-  ![](images/h
+  
+  ![](image/header-screenshot.png)
+  
+  * screenshot of section one 
+  ![](image/section-1-screenshot.png)
+  
+  *screenshot of section two
+  ![](image/section-2-screenshot.png)
   
 
 ## Built With
