@@ -1,5 +1,4 @@
 # homework-one
-# Project Title
 This a landing page for a Marketing company. I named the title of this page "Horiseon Marketing Soluutions" because the main purpose of the site is to provide marketing solutions to their clients. As per the instructions of the HW, I have re factored the code. 
 
 
@@ -9,7 +8,7 @@ For starters I created a repository on github for code refactor, and git cloned 
 
 ### Refactored HTML 
 
-1. I added semantic elements in the body of the code. (swtiched out the non semantic element (div) with semantic element(nav) )
+1. I added semantic elements in the body of the code. (swtiched out the non semantic element (div) with semantic element(nav) and <sections> )
 2. In addition in <h1> tag I removed the tag span which is a non semantic element and added and emphasis element <em>
 3. In addition, in the body, I also changed the # to # paragraphs, because all three in the list acts the same (which is then used to shorten the css code but function the same way)
 4. I added the background image in the html, with the figure tag, so I can make the site more accessible by adding alt to the img function
