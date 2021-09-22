@@ -23,6 +23,11 @@ For starters I created a repository on github for code refactor, and git cloned 
 2. I changed the order of class benefit and class content
 3. I changed all the id to paragraph and classes to benefit and sub to match the content in html
 
+##Screenshot of the code 
+  
+  * screenshot of the header section
+  ![](images/h
+  
 
 ## Built With
 
